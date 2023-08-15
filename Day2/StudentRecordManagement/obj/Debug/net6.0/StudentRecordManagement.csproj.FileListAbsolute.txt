@@ -1,0 +1,15 @@
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.csproj.AssemblyReference.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfoInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfo.cs
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.csproj.CoreCompileInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.exe
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.deps.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.runtimeconfig.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\refint\StudentRecordManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.genruntimeconfig.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day2\StudentRecordManagement\obj\Debug\net6.0\ref\StudentRecordManagement.dll

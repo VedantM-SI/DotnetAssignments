@@ -1,0 +1,15 @@
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).csproj.AssemblyReference.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).AssemblyInfoInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).AssemblyInfo.cs
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).csproj.CoreCompileInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\bin\Debug\net6.0\ShapeHierarchy(Interfaces).exe
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\bin\Debug\net6.0\ShapeHierarchy(Interfaces).deps.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\bin\Debug\net6.0\ShapeHierarchy(Interfaces).runtimeconfig.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\bin\Debug\net6.0\ShapeHierarchy(Interfaces).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\bin\Debug\net6.0\ShapeHierarchy(Interfaces).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\refint\ShapeHierarchy(Interfaces).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ShapeHierarchy(Interfaces).genruntimeconfig.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\ShapeHierarchy(Interfaces)\obj\Debug\net6.0\ref\ShapeHierarchy(Interfaces).dll

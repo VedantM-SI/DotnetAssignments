@@ -1,0 +1,15 @@
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\bin\Debug\net6.0\StudentGradingSystem(ExceptionHandling).exe
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\bin\Debug\net6.0\StudentGradingSystem(ExceptionHandling).deps.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\bin\Debug\net6.0\StudentGradingSystem(ExceptionHandling).runtimeconfig.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\bin\Debug\net6.0\StudentGradingSystem(ExceptionHandling).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\bin\Debug\net6.0\StudentGradingSystem(ExceptionHandling).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).csproj.AssemblyReference.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).AssemblyInfoInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).AssemblyInfo.cs
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).csproj.CoreCompileInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\refint\StudentGradingSystem(ExceptionHandling).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\StudentGradingSystem(ExceptionHandling).genruntimeconfig.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\StudentGradingSystem(ExceptionHandling)\obj\Debug\net6.0\ref\StudentGradingSystem(ExceptionHandling).dll

@@ -1,0 +1,15 @@
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\bin\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).exe
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\bin\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).deps.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\bin\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).runtimeconfig.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\bin\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\bin\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).csproj.AssemblyReference.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).AssemblyInfoInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).AssemblyInfo.cs
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\refint\OnlineStoreInventorySystem(Inheritance).dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\OnlineStoreInventorySystem(Inheritance).genruntimeconfig.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day3\OnlineStoreInventorySystem(Inheritance)\obj\Debug\net6.0\ref\OnlineStoreInventorySystem(Inheritance).dll

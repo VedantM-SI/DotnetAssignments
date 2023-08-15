@@ -1,0 +1,15 @@
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\bin\Debug\net6.0\SportzClubManagement.exe
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\bin\Debug\net6.0\SportzClubManagement.deps.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\bin\Debug\net6.0\SportzClubManagement.runtimeconfig.json
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\bin\Debug\net6.0\SportzClubManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\bin\Debug\net6.0\SportzClubManagement.pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.csproj.AssemblyReference.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.AssemblyInfoInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.AssemblyInfo.cs
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\refint\SportzClubManagement.dll
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.pdb
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.genruntimeconfig.cache
+C:\Users\vedant.more\Desktop\Assignments\.NET\Day4\SportzClubManagement\obj\Debug\net6.0\ref\SportzClubManagement.dll
